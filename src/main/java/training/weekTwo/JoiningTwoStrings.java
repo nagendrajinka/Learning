@@ -5,7 +5,7 @@ package training.weekTwo;
  */
 
 public class JoiningTwoStrings {
-    public static String TwoStrings() {
+    public static void TwoStrings() {
         String s1 = "abcd";
         String s2 = "efgh";
         String s3 = " ";
@@ -18,7 +18,7 @@ public class JoiningTwoStrings {
             }
         }
         System.out.println(s3);
-        return  s3;
+
     }
 
     public static void main(String[] args) {
