@@ -1,5 +1,9 @@
 package training.weekTwo;
 
+/**
+ * Program to add two strings letter by letter
+ */
+
 public class JoiningTwoStrings {
     public static String TwoStrings() {
         String s1 = "abcd";
