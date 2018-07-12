@@ -18,13 +18,8 @@ public class JoiningTwoStrings {
             }
         }
         System.out.println(s3);
-
     }
-
     public static void main(String[] args) {
         TwoStrings();
     }
 }
-
-
-
